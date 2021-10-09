@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "25krxwau6nY3eJ/nTIyBIxvxNqQjohPA6qGqHnpVXwIEbkKVMDVuR43smnHVx+HjIaMk7/6Zouod3FsGiuWHnQ==",
+  "dgSpecHash": "Msrolb5FUzfbt7A23fRJ1GpLQuNhCNWKrIkma4V9dMEsFaHWNmTB2wLTH1BKek8HmQqFKM1aAE9dy6TJPqLlew==",
   "success": true,
-  "projectFilePath": "E:\\Repository\\my-projects\\csharp-design-patterns\\DecoratorPattern\\DecoratorPattern.csproj",
+  "projectFilePath": "E:\\Repository\\my-projects\\csharp-design-patterns\\DesignPatterns\\DecoratorPattern\\DecoratorPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Repository\\my-projects\\csharp-design-patterns\\DecoratorPattern\\DecoratorPattern.csproj": {}
+    "E:\\Repository\\my-projects\\csharp-design-patterns\\DesignPatterns\\DecoratorPattern\\DecoratorPattern.csproj": {}
   },
   "projects": {
-    "E:\\Repository\\my-projects\\csharp-design-patterns\\DecoratorPattern\\DecoratorPattern.csproj": {
+    "E:\\Repository\\my-projects\\csharp-design-patterns\\DesignPatterns\\DecoratorPattern\\DecoratorPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Repository\\my-projects\\csharp-design-patterns\\DecoratorPattern\\DecoratorPattern.csproj",
+        "projectUniqueName": "E:\\Repository\\my-projects\\csharp-design-patterns\\DesignPatterns\\DecoratorPattern\\DecoratorPattern.csproj",
         "projectName": "DecoratorPattern",
-        "projectPath": "E:\\Repository\\my-projects\\csharp-design-patterns\\DecoratorPattern\\DecoratorPattern.csproj",
+        "projectPath": "E:\\Repository\\my-projects\\csharp-design-patterns\\DesignPatterns\\DecoratorPattern\\DecoratorPattern.csproj",
         "packagesPath": "C:\\Users\\Elian\\.nuget\\packages\\",
-        "outputPath": "E:\\Repository\\my-projects\\csharp-design-patterns\\DecoratorPattern\\obj\\",
+        "outputPath": "E:\\Repository\\my-projects\\csharp-design-patterns\\DesignPatterns\\DecoratorPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
