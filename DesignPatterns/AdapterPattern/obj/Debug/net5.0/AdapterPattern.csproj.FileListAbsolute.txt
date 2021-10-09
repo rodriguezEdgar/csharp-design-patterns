@@ -1,0 +1,15 @@
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\AdapterPattern\obj\Debug\net5.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\AdapterPattern\obj\Debug\net5.0\AdapterPattern.AssemblyInfoInputs.cache
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\AdapterPattern\obj\Debug\net5.0\AdapterPattern.AssemblyInfo.cs
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\AdapterPattern\obj\Debug\net5.0\AdapterPattern.csproj.CoreCompileInputs.cache
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\AdapterPattern\bin\Debug\net5.0\AdapterPattern.exe
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\AdapterPattern\bin\Debug\net5.0\AdapterPattern.deps.json
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\AdapterPattern\bin\Debug\net5.0\AdapterPattern.runtimeconfig.json
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\AdapterPattern\bin\Debug\net5.0\AdapterPattern.runtimeconfig.dev.json
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\AdapterPattern\bin\Debug\net5.0\AdapterPattern.dll
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\AdapterPattern\bin\Debug\net5.0\ref\AdapterPattern.dll
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\AdapterPattern\bin\Debug\net5.0\AdapterPattern.pdb
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\AdapterPattern\obj\Debug\net5.0\AdapterPattern.dll
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\AdapterPattern\obj\Debug\net5.0\ref\AdapterPattern.dll
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\AdapterPattern\obj\Debug\net5.0\AdapterPattern.pdb
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\AdapterPattern\obj\Debug\net5.0\AdapterPattern.genruntimeconfig.cache
