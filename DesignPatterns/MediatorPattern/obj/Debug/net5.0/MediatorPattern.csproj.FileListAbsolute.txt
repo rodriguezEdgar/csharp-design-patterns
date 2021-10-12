@@ -1,0 +1,16 @@
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\MediatorPattern\obj\Debug\net5.0\MediatorPattern.csproj.AssemblyReference.cache
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\MediatorPattern\obj\Debug\net5.0\MediatorPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\MediatorPattern\obj\Debug\net5.0\MediatorPattern.AssemblyInfoInputs.cache
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\MediatorPattern\obj\Debug\net5.0\MediatorPattern.AssemblyInfo.cs
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\MediatorPattern\obj\Debug\net5.0\MediatorPattern.csproj.CoreCompileInputs.cache
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\MediatorPattern\bin\Debug\net5.0\MediatorPattern.exe
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\MediatorPattern\bin\Debug\net5.0\MediatorPattern.deps.json
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\MediatorPattern\bin\Debug\net5.0\MediatorPattern.runtimeconfig.json
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\MediatorPattern\bin\Debug\net5.0\MediatorPattern.runtimeconfig.dev.json
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\MediatorPattern\bin\Debug\net5.0\MediatorPattern.dll
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\MediatorPattern\bin\Debug\net5.0\ref\MediatorPattern.dll
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\MediatorPattern\bin\Debug\net5.0\MediatorPattern.pdb
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\MediatorPattern\obj\Debug\net5.0\MediatorPattern.dll
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\MediatorPattern\obj\Debug\net5.0\ref\MediatorPattern.dll
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\MediatorPattern\obj\Debug\net5.0\MediatorPattern.pdb
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\MediatorPattern\obj\Debug\net5.0\MediatorPattern.genruntimeconfig.cache
