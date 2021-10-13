@@ -1,0 +1,16 @@
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\BridgePattern\bin\Debug\net5.0\BridgePattern.exe
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\BridgePattern\bin\Debug\net5.0\BridgePattern.deps.json
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\BridgePattern\bin\Debug\net5.0\BridgePattern.runtimeconfig.json
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\BridgePattern\bin\Debug\net5.0\BridgePattern.runtimeconfig.dev.json
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\BridgePattern\bin\Debug\net5.0\BridgePattern.dll
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\BridgePattern\bin\Debug\net5.0\ref\BridgePattern.dll
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\BridgePattern\bin\Debug\net5.0\BridgePattern.pdb
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\BridgePattern\obj\Debug\net5.0\BridgePattern.csproj.AssemblyReference.cache
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\BridgePattern\obj\Debug\net5.0\BridgePattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\BridgePattern\obj\Debug\net5.0\BridgePattern.AssemblyInfoInputs.cache
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\BridgePattern\obj\Debug\net5.0\BridgePattern.AssemblyInfo.cs
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\BridgePattern\obj\Debug\net5.0\BridgePattern.csproj.CoreCompileInputs.cache
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\BridgePattern\obj\Debug\net5.0\BridgePattern.dll
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\BridgePattern\obj\Debug\net5.0\ref\BridgePattern.dll
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\BridgePattern\obj\Debug\net5.0\BridgePattern.pdb
+E:\Repository\my-projects\csharp-design-patterns\DesignPatterns\BridgePattern\obj\Debug\net5.0\BridgePattern.genruntimeconfig.cache
